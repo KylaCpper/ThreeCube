@@ -1,0 +1,9 @@
+.grid { background-color: #444; color: #fff; font-size: 100%; padding: 0px; text-align:center}
+.current { background-color: #fff; color: #444;}
+.percent50{padding: 0px;height: 50vh;overflow:auto;}
+.percent30{padding: 0px;height: 30vh;overflow:auto;}
+.percent40{padding: 0px;height: 40vh;overflow:auto;}
+.info{padding: 0px;background-color: #333;color: #fff;font-size: 80%;}
+.console{padding: 0px;background-color: #333;color: #fff;font-size: 80%;}
+p{text-align:center;}
+div{word-wrap: break-word; word-break: normal;font-weight:700}
